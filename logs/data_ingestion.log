@@ -1,0 +1,5 @@
+2025-06-30 00:06:10,567 - data_ingestion - ERROR - Unexpected error occured while loading the data: HTTP Error 404: Not Found
+2025-06-30 00:06:10,568 - data_ingestion - ERROR - Faild to complete the data ingestion process: HTTP Error 404: Not Found
+2025-06-30 00:11:30,797 - data_ingestion - DEBUG - Data loaded form https://raw.githubusercontent.com/umairjaffer/Datasets/refs/heads/master/spam.csv
+2025-06-30 00:11:30,799 - data_ingestion - DEBUG - Data Preprocessing completed!
+2025-06-30 00:11:30,824 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
